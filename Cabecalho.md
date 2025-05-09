@@ -1,1 +1,3 @@
-Aqui insiro um cabeçalho respeitável.
+Aqui insiro um cabeï¿½alho respeitï¿½vel.
+E aqui atualizo
+E aqui, de novo
